@@ -7,9 +7,7 @@ module.exports.letter = function (letter){
    }
    this.guess = function(another){
        if(!this.guessed){
-            if(another.toLowerCase() == this.name.toLowerCase()){
-                this.guessed =true;
-            }
+        this.guessed = (another.toLowerCase() == this.name.toLowerCase());
         }
    }
    this.getLetter = function(){
