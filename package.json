@@ -1,0 +1,25 @@
+{
+  "name": "hangman-node",
+  "version": "1.0.0",
+  "description": "A word guess game based on node",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nova-Xue/Hangman-Node.git"
+  },
+  "keywords": [
+    "inquirer",
+    "hangman",
+    "word-guess",
+    "node"
+  ],
+  "author": "Nova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nova-Xue/Hangman-Node/issues"
+  },
+  "homepage": "https://github.com/Nova-Xue/Hangman-Node#readme"
+}
